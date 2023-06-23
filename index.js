@@ -8,8 +8,8 @@ const config = {
   "handler_404": {activated: false, msg: "404"},
   "404_file": {activated: false, file: "404.html"},
   "unique_values": {activated: false},
-  "manutencao": {activated: false, msg: "tá em manutencaokkk"},
-  "manutencao_arquivo": {activated: false, file: "manu.html"}
+  "maintenance": {activated: false, msg: "tá em manutencaokkk"},
+  "maintenance_file": {activated: false, file: "manu.html"}
 }
 
 app.use(middleware(config, app));
