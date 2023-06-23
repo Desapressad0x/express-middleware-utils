@@ -4,7 +4,7 @@ This is a package that provides utility middleware for Express.js. The main goal
 
 ## Installation
 
-To install the express-middleware-utils package, use the following command:
+To install the express-middleware-utils package, use the following commands:
 
 ```console
 git clone https://github.com/Desapressad0x/express-middleware-utils.git
